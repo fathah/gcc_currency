@@ -1,4 +1,4 @@
-<img width="1920" height="500" alt="gcc_curr" src="https://github.com/user-attachments/assets/2473d547-16db-40a5-8b9c-28d3ce59c7f3" />
+<img width="100%"  alt="gcc_curr" src="https://github.com/user-attachments/assets/2473d547-16db-40a5-8b9c-28d3ce59c7f3" />
 
 # gcc_currency
 
