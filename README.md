@@ -1,3 +1,5 @@
+<img width="1920" height="500" alt="gcc_curr" src="https://github.com/user-attachments/assets/2473d547-16db-40a5-8b9c-28d3ce59c7f3" />
+
 # gcc_currency
 
 A lightweight Flutter package that provides **GCC currency symbols** (SAR, AED, QAR, OMR, KWD, BHD) as a **custom icon font**.
